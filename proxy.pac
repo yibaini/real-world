@@ -1,6 +1,6 @@
     var hasOwnProperty = Object.hasOwnProperty;
     var iproxy ='DIRECT';
-    var proxy =  "PROXY 127.0.0.1:25;";
+    var proxy =  "PROXY 45.32.119.75:25;";
     var list = [
         [
         ],
